@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          <h1>Hello from Amplify - again</h1>
+          <h1>How many times can this work</h1>
         </p>
         <a
           className="App-link"
